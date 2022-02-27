@@ -1,0 +1,16 @@
+What are the key concepts you learnt from these courses
+You can choose one module from the list below:-
+1)Python for Data Science
+2)Exploratory Data Analysis
+3)Git and Github operations
+4) Various python libraries to build and train AI/ML Models
+5) AI/ML Alogorithm design
+6) AI Strategy
+7) Computer vision Algorithm.
+
+
+Alok Kumar
+MS in Machine Learning and Artificial Intelligence
+Using the combination of Artificial Intelligence, Machine learning and 
+deep learning is going to be very useful because they are adding a lot of value to 
+the current process and also providing a thoughtful path for individuals to move forward.
